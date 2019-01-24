@@ -15,8 +15,6 @@ Follow [my blog](https://virgool.io/@shafi.ee/) to read next articles about RxSw
 - See my personal website: [Shafi.ee](http://www.shafi.ee)
 - Follow me on twitter: [@Shafi.ee](http://twitter.com/shafi.ee)
 
-ViewControllersPager was a forked from [Pager](https://github.com/lucoceano/Pager) to swift.
-
 
 ## Licence
 Pager is MIT licensed. See the LICENCE file for more info.
